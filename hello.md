@@ -1,6 +1,5 @@
 # test
-![ContextDiagram]
-(https://github.com/Ghost---Shadow/social-score-lending-documentation/blob/master/images/ContextDiagram.png)
+![ContextDiagram](https://github.com/Ghost---Shadow/social-score-lending-documentation/blob/master/images/ContextDiagram.png)
 
 
 + **System:**
